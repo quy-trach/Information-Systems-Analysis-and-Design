@@ -9,3 +9,5 @@ Dự Án Ecommerce. Được thiết kế trên nền tảng figma ( link figma 
 ![image](https://github.com/user-attachments/assets/98251feb-6a76-4e25-982b-3bb6b057f36b)
 
 
+![image](https://github.com/user-attachments/assets/02f5fba8-df39-416c-a587-0642b4a20062)
+
